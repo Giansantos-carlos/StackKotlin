@@ -47,3 +47,5 @@ M
 src/main/kotlin/Functions3.kt,5\3\536b44172c581763f297912dd2e79b332950db9a
 M
 src/main/kotlin/Functions4.kt,f\7\f7d3540d8788f7975a90a767ed2b4461dae64c03
+I
+src/main/kotlin/Loops3.kt,2\d\2d4a9b67e907507a59002779085e7c5caf040d9c
