@@ -49,3 +49,11 @@ M
 src/main/kotlin/Functions4.kt,f\7\f7d3540d8788f7975a90a767ed2b4461dae64c03
 I
 src/main/kotlin/Loops3.kt,2\d\2d4a9b67e907507a59002779085e7c5caf040d9c
+H
+src/main/kotlin/Loops.kt,c\2\c202fd80539550ca9148f7fd14d2d2989c50bbb4
+I
+src/main/kotlin/Loops2.kt,f\c\fc4827254d1ee60987db9b279bc09a0118d9883f
+I
+src/main/kotlin/Arrays.kt,7\f\7f2230e0fc44a1fa1f12cfa116f95d53d89f855c
+J
+src/main/kotlin/Arrays2.kt,5\1\51d7f3cb20b8546f50b5a619baa2ef183c951ad8
