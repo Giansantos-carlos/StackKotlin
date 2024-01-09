@@ -95,3 +95,21 @@ K
 src/main/kotlin/ListView.kt,3\a\3aaf9b63ac4cb78d5bc59a45c9eb71353668772a
 O
 src/main/kotlin/ListViewInit.kt,c\4\c41e10cc796ae4e9ef57981b18c490e8960935a8
+K
+src/main/kotlin/Delegate.kt,1\6\160543e6c54e244574080960dbf1a7939d2e188e
+P
+ src/main/kotlin/ClickListener.kt,f\2\f2c82769f46cde5bae3ae4974b35280d8616186c
+L
+src/main/kotlin/Interface.kt,e\5\e57d65e04329043716694d2225e438a109373577
+I
+src/main/kotlin/Button.kt,7\f\7fbf2c2856e1727ca76b5072d6d9b3f1b4d5c43e
+Y
+)src/main/kotlin/CollectionsOperations2.kt,2\8\280101b816dda7a2f4ca7fe75c9195453f9e4eff
+S
+#src/main/kotlin/ColectionsString.kt,b\5\b5912a1dc938c4498600a54e9cccd345d5d825ff
+X
+(src/main/kotlin/CollectiionsOperatios.kt,5\7\57017a92c27c4709373aa53c52a9212ca4dfd919
+O
+src/main/kotlin/Collections2.kt,c\1\c188ca24eec462974867a2bb3c8de9576da56e1e
+N
+src/main/kotlin/Collections.kt,9\a\9ade5d4683b12901df7aed19b13c40b02f114553
