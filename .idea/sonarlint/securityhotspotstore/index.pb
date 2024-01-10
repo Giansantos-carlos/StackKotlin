@@ -113,3 +113,15 @@ O
 src/main/kotlin/Collections2.kt,c\1\c188ca24eec462974867a2bb3c8de9576da56e1e
 N
 src/main/kotlin/Collections.kt,9\a\9ade5d4683b12901df7aed19b13c40b02f114553
+O
+src/main/kotlin/Collections3.kt,c\2\c2893b629eea9c413e48e71058e029c6d3f48b68
+I
+src/main/kotlin/Lambda.kt,6\b\6b76c4179fe2c56055d266039c1822e018744e05
+J
+src/main/kotlin/Lambda3.kt,f\f\ff47741cf8bb438cc8ed08e5726490d69306cfac
+Y
+)src/main/kotlin/CollectionsOperations3.kt,5\1\516f1fd8b6a8a3f37cedbeafe0d88316164cace7
+J
+src/main/kotlin/Lambda2.kt,4\f\4f79ddd545b55d0b9cf717533825c5ea4c8c55b7
+L
+src/main/kotlin/Funtions5.kt,2\0\2063991dcb9640c6c4c828cf131f9fe27a21cb55
